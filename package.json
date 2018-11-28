@@ -1,0 +1,21 @@
+{
+    "name": "msx",
+    "displayName": "msx",
+    "description": "MSX Theme for VSCode",
+    "version": "1.0.0",
+    "engines": {
+        "vscode": "^1.29.0"
+    },
+    "categories": [
+        "Themes"
+    ],
+    "contributes": {
+        "themes": [
+            {
+                "label": "MSX Theme",
+                "uiTheme": "vs-dark",
+                "path": "./themes/Heretic-color-theme.json"
+            }
+        ]
+    }
+}
