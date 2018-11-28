@@ -14,7 +14,7 @@
             {
                 "label": "MSX Theme",
                 "uiTheme": "vs-dark",
-                "path": "./themes/Heretic-color-theme.json"
+                "path": "./themes/MSX-color-theme.json"
             }
         ]
     }
